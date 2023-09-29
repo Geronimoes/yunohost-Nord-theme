@@ -1,4 +1,4 @@
-# yunohost-Nord-theme v2
+# YunoHost Nord theme v2
 (forked from eeeple/yunohost-Nord-theme)
 
 Yunohost portal theme inspired by the Nord palette.
