@@ -1,5 +1,5 @@
 # YunoHost Nord theme v2
-(forked from eeeple/yunohost-Nord-theme)
+_(forked from eeeple/yunohost-Nord-theme)_
 
 Yunohost portal theme inspired by the Nord palette.
 
@@ -8,6 +8,8 @@ For more information on the Nord color palette, please check the [Nord Theme web
 ## How to install
 
 You can follow the instructions explained here: https://yunohost.org/#/theming
+
+> You may add themes created by other people by downloading and extracting the corresponding files in a new folder the_theme_name in /usr/share/ssowat/portal/assets/themes/.
 
 ## Screenshots
 
